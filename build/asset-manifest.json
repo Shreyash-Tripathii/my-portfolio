@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6591ea6f.css",
+    "main.js": "/portfolio/static/js/main.2564c136.js",
+    "static/media/Thakshila-Bandara_CV.pdf": "/portfolio/static/media/Thakshila-Bandara_CV.5f4315884153e8bbcbf9.pdf",
+    "static/media/img4.png": "/portfolio/static/media/img4.8ee08f6ae4a946ad1c8b.png",
+    "static/media/my-image2.jpg": "/portfolio/static/media/my-image2.04da2bed3b8d89edd8de.jpg",
+    "static/media/img5.jpg": "/portfolio/static/media/img5.bcadabab52c488fec731.jpg",
+    "static/media/me-new.png": "/portfolio/static/media/me-new.2fe984921f29e0351c55.png",
+    "static/media/img2.png": "/portfolio/static/media/img2.eb629efc0163b223cabf.png",
+    "index.html": "/portfolio/index.html",
+    "main.6591ea6f.css.map": "/portfolio/static/css/main.6591ea6f.css.map",
+    "main.2564c136.js.map": "/portfolio/static/js/main.2564c136.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6591ea6f.css",
+    "static/js/main.2564c136.js"
+  ]
+}
